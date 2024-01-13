@@ -1,5 +1,7 @@
 [{
     "num_tema": 1,
+    "caja":"caja1",
+    "collapse":"#caja1",
     "tema": "Hablando matemáticamente",
     "libro_teorico": "https://drive.google.com/file/d/1tcnAZz4nyPIrzNkRZyF5Bvv8PT26l3do/view?usp=sharing",
     "libro_practico": "https://drive.google.com/file/d/1okkT-ndg1vOiPzTGXyWTVjgBXcCt1Q1p/view?usp=sharing",
@@ -11,6 +13,8 @@
   },
   {
     "num_tema": 2,
+    "caja":"caja2",
+    "collapse":"#caja2",
     "tema": "Lógica y álgebra de Boole",
     "libro_teorico": "https://drive.google.com/file/d/1iCYP7JUDwbSK5xr9C1bxCgtWmwpHRFr3/view?usp=drive_link",
     "libro_practico": "https://drive.google.com/file/d/1Y7ZJBROc_FQUoVOJPHuQyM0j9N9GYmbv/view?usp=sharing",
@@ -22,6 +26,8 @@
   },
   {
     "num_tema": 3,
+    "caja":"caja3",
+    "collapse":"#caja3",
     "tema": "La lógica de los enunciados compuestos",
     "libro_teorico": "https://drive.google.com/file/d/139rvBSrfEjRPfx6PUeCX0EZWkOrECiQE/view?usp=sharing",
     "libro_practico": "https://drive.google.com/file/d/1QjHpqZvNtrGjNbIs_hsF5zmQgQbsEAC3/view?usp=sharing",
@@ -33,6 +39,8 @@
   },
   {
     "num_tema": 4,
+    "caja":"caja4",
+    "collapse":"#caja4",
     "tema": "La lógica de enunciados cuantificados",
     "libro_teorico": "https://drive.google.com/file/d/1jDRt4811Kbqnrjxik6oRLZv3VXbIEnJv/view?usp=sharing",
     "libro_practico": "https://drive.google.com/file/d/1c2D2PsG8wra4xanNRfyUL7CAHE9Y-MNs/view?usp=sharing",
@@ -44,6 +52,8 @@
   },
   {
     "num_tema": 5,
+    "caja":"caja5",
+    "collapse":"#caja5",
     "tema": "Teoría elemental de números y métodos de demostración",
     "libro_teorico": "https://drive.google.com/file/d/1VccBjNHdPPtONSSRFhv-t5yR_FHMf9QQ/view?usp=drive_link",
     "libro_practico": "https://drive.google.com/file/d/1a8jO1pdbYW8K8fPUYiT0z1ysu3Cp5y9o/view?usp=sharing",
@@ -55,6 +65,8 @@
   },
   {
     "num_tema": 6,
+    "caja":"caja6",
+    "collapse":"#caja6",
     "tema": "Teoría de conjuntos",
     "libro_teorico": "https://drive.google.com/file/d/1bVwjV-tcZNFv9k1j1zoc65YXTsIHnsHI/view?usp=sharing",
     "libro_practico": "https://drive.google.com/file/d/1pvtz_NJPNJEiV4xu9kguMkh0EzJPZ6RZ/view?usp=sharing",
@@ -66,6 +78,8 @@
   },
   {
     "num_tema": 7,
+    "caja":"caja7",
+    "collapse":"#caja7",
     "tema": "Grafos y árboles",
     "libro_teorico": "https://drive.google.com/file/d/17n67LcxfZgWu8amKgmiXQ0xvzUNqzqzN/view?usp=sharing",
     "libro_practico": "https://drive.google.com/file/d/1grWa5H24AzeaLRSDOp7ca5ujqb8KouVb/view?usp=sharing",
@@ -77,6 +91,8 @@
   },
   {
     "num_tema": 8,
+    "caja":"caja8",
+    "collapse":"#caja8",
     "tema": "Expresiones regulares y autómatas de estado-finito",
     "libro_teorico": "https://drive.google.com/file/d/1IVz0DLuEGnnz2jowfg3psyCpYQXUBB9U/view?usp=sharing",
     "libro_practico": "https://drive.google.com/file/d/1nIVpkQkoGgj-A8W9atDOAkrNpnjgRdmw/view?usp=sharing",
@@ -88,6 +104,8 @@
   },
   {
     "num_tema": 9,
+    "caja":"caja9",
+    "collapse":"#caja9",
     "tema": "Algoritmos de estructura de control",
     "libro_teorico": "https://drive.google.com/file/d/1QQtlEdPmw33E4W8PnItSXtFsOhMAJLX6/view?usp=sharing",
     "libro_practico": "https://drive.google.com/file/d/1lFQkYhdcY7iB9aPlk-DxpDDMW_ThBWTc/view?usp=sharing",
